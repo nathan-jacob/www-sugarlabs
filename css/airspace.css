@@ -372,7 +372,7 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 120px;
   height: 120px;
 }
-#h2ele {
+/*#h2ele {
   line-height: 27px;
   color: #5C5C5C;
   padding-top: 110px;
@@ -386,6 +386,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 50px;
   color: #7B7B7B;
 }
+*/
 #testimonial .counter-box li {
   width: 50%;
   float: left;
